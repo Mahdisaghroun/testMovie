@@ -1,6 +1,6 @@
-# Project Name
+# MOVIE APP
 
-Brief description of the project.
+Movies application
 
 ## How to Run
 
