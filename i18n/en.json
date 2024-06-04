@@ -1,0 +1,21 @@
+{
+  "title": "File for English wording",
+  "version": "1.0",
+  "translation": {
+    "splash": {
+      "title": "Watch movies in Virtual Reality",
+      "subtitle": "Download and watch offline wherever you are",
+      "btnStart": "Explore Movies"
+    },
+    "home": {
+      "homeTitle": "What would you like to watch?",
+      "search": "Search...",
+      "newMovies": "New Movies",
+      "Upcomingmovies": "Upcoming movies"
+    },
+    "search": {
+      "result": "Search Result",
+      "empty":"No Data"
+    }
+  }
+}
