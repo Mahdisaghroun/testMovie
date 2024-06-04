@@ -21,11 +21,12 @@ yarn test
 
 ## API Used
 
-- API Name: [Description](http://www.omdbapi.com)
+- **API Name:** [OMDb API](http://www.omdbapi.com)
+  - **Description:** The Open Movie Database API provides information about movies, such as their title, release year, plot, and more.
 
 ## Figma URL
 
-[Figma]([https://www.figma.com/](https://www.figma.com/community/file/1097418400472836927/movie-mobile-app-for-virtual-reality-app-ui?searchSessionId=lx09d32u-8wg9o9uidf)) URL for design inspiration.
+[Figma](https://www.figma.com/community/file/1097418400472836927/movie-mobile-app-for-virtual-reality-app-ui?searchSessionId=lx09d32u-8wg9o9uidf) URL for design inspiration.
 
 ## Folder Structure
 
